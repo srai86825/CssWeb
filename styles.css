@@ -1,5 +1,5 @@
 body{
-  text-align: center;
+ text-align: center;
   font-family: 'Courgette' cursive;
   background-color: hsl(180deg 40% 94%);
 }
@@ -59,10 +59,7 @@ position: absolute;
   right: 9.75rem;
 top:49.6rem;
 }
-.bottom-div-cloud{
-  position: absolute;
-  right: 19.75rem;
-}
+
 .rainbow{
   background-color: #5fc1d4;
   border-radius: 4px;
@@ -123,4 +120,35 @@ a{
 }
 h2{
 color:#66BFBF;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.football-gif{
+  width:15%;
+  margin-right: 20px;
+float: left;
+}
+.web-dev-gif{
+  width:25%;
+  border-radius: 50%;
+  background-color: grey;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 28.5px;
+}
+.cpp-gif{
+
+width: 35%;
+  border-radius: 50%;
+  float: right;
+
+}
+.c-png{
+  width: 25%;
+  float: right;
 }
