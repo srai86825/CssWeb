@@ -3,6 +3,9 @@ body{
   font-family: 'Courgette' cursive;
   background-color: hsl(180deg 40% 94%);
 }
+a{
+text-decoration:none;
+}
 .profile-photo{
   border-radius: 100%;
   height: 12rem;
